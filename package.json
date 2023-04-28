@@ -1,0 +1,19 @@
+{
+    "name": "@secure-deal-ton/contracts",
+    "version": "0.0.0",
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/secure-deal-ton/contracts.git"
+    },
+    "bugs": {
+        "url": "https://github.com/secure-deal-ton/contracts/issues"
+    },
+    "homepage": "https://github.com/secure-deal-ton/contracts#readme",
+    "scripts": {
+        "fmt": "prettier --write ."
+    },
+    "devDependencies": {
+        "prettier": "^2.8.8"
+    }
+}
